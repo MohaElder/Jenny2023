@@ -1,3 +1,9 @@
+# REMEMBER TO CHANGE URL!
+
+For any ws://url, if you are running on localhost, just use ws://localhost:8080
+
+And make sure you change the netlify ones into localhost!
+
 # Run Locally:
 
 Open 3 terminals:
