@@ -25,7 +25,7 @@ npm run dev -- --host
 ```
 
 ```
-cd 2023JennyServer
+cd JennyServer
 pip install -r requirements.txt
 python server.py
 ```
