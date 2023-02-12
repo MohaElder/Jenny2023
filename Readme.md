@@ -24,6 +24,8 @@ npm install
 npm run dev -- --host
 ```
 
+Terminal3:
+
 ```
 cd JennyServer
 pip install -r requirements.txt
